@@ -1,1 +1,1 @@
-# APS360_Machine_Learning_Projects
+# Machine Learning Projects
